@@ -4,8 +4,8 @@ Proxmox VE Tools (CLI helper untuk CT/VM)
 ## Cara Penggunaan:
 Buat file script:
 ```bash
-nano pve-tools.sh
-nano install-pve-tools.sh
+git clone https://github.com/abdurrozakskom/pve-tools.git
+cd pve-tools
 ```
 
 ## Beri permission executable:
